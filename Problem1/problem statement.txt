@@ -1,0 +1,10 @@
+--This is a improvised scenario as actual one doesnt match with real application behavior.
+1) Go to https://whatfix.com/quickolabs.com/#!flows/how-to-import-google-analytics-solution-of-whatfix/8174f470-9df9-11e3-8178-386077c653fe/
+2) Click on "Self Help" on right side of the screen.
+3) Click on "How to embed flows in my website or application"
+4) A tooltip points to 'embed' option now. Click on 'embed'.
+5) Click on 'whatfixlogo'.
+6) After this, click 'next' on tooltip.
+7) Click on Search icon in searchbar.
+8) Finally, this popup comes:
+9)Click on close inside popup
